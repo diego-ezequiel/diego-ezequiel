@@ -95,5 +95,3 @@
 </p>
 
 <hr/>
-
-* Credit: [Candida18](https://github.com/Candida18)
