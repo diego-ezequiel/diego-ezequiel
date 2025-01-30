@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">Soy un programador trainee, me enfoco principalmente en el desarrollo web pero me gusta más programar en Java. </h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="diego-ezequiel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=diego-ezequiel8&label=Profile%20views&color=0e75b6&style=plastic" alt="diego-ezequiel" /> </p>
 
 ## 🔥 Estadísticas
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-ezequiel&theme=algolia" alt="diego-ezequiel"  /></p>
