@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ing.+en+Sistemas;Técnico+Inform+atico;Desarrollador+Full+Stack;Desarrollador+Java;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">Soy un programador trainee, me enfoco principalmente en el desarrollo web pero me gusta más programar en Java. </h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="diego-ezequiel" /> </p>
 
@@ -81,15 +81,6 @@
   <br/>
   <b>Nota:</b> Los lenguajes Top son solo una métrica de uso del lenguaje en mis códigos públicos, no reflejan mi habilidad ni experiencia.
   </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Actividad Reciente en GitHub</b></summary>
-  <br/>
-   <a href="https://github.com/diego-ezequiel"><img alt="Gráfico de la Actividad de Diego" src="https://activity-graph.herokuapp.com/graph?username=diego-ezequiel&custom_title=Gráfico%20de%20Contribución%20de%20Diego&theme=react-dark" /></a>
-  <br/>
-
 </details>
 
 <br/>
