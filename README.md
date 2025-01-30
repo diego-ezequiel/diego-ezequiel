@@ -87,7 +87,7 @@
 <details>
   <summary><b>⚡ Actividad Reciente en GitHub</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Gráfico de la Actividad de Diego" src="https://activity-graph.herokuapp.com/graph?username=diego-ezequiel&custom_title=Gráfico%20de%20Contribución%20de%20Diego&theme=react-dark" /></a>
+   <a href="https://github.com/diego-ezequiel"><img alt="Gráfico de la Actividad de Diego" src="https://activity-graph.herokuapp.com/graph?username=diego-ezequiel&custom_title=Gráfico%20de%20Contribución%20de%20Diego&theme=react-dark" /></a>
   <br/>
 
 </details>
