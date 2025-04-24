@@ -8,11 +8,9 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diego-ezequiel8&label=Profile%20views&color=0e75b6&style=plastic" alt="diego-ezequiel" /> </p>
 
-## 🔥 Estadísticas
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-ezequiel&theme=algolia" alt="diego-ezequiel"  /></p>
-
-
 ## 🛠️ Mis Habilidades
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=diego-ezequiel" alt="GitHub Streak" /></a>
 
 ### 👉 Lenguajes de programación
 
