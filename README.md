@@ -10,8 +10,6 @@
 
 ## 🛠️ Mis Habilidades
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=diego-ezequiel" alt="GitHub Streak" /></a>
-
 ### 👉 Lenguajes de programación
 
 <p align="left"> 
