@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ing.+en+Sistemas;Técnico+Informático;Desarrollador+Full+Stack;Desarrollador+Java;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Soy un programador trainee, me enfoco principalmente en el desarrollo web pero me gusta más programar en Java. </h4>
+<h4 align="center">Soy un programador trainee, me enfoco en el desarrollo web pero también manejo lenguajes como C, C# y Java. </h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diego-ezequiel8&label=Profile%20views&color=0e75b6&style=plastic" alt="diego-ezequiel" /> </p>
 
